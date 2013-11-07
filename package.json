@@ -1,7 +1,7 @@
 {
   "name": "grunt-contrib-less-smartsprites",
   "description": "Compile LESS files to CSS(smartsprites).",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "lessVersion": "0.8.1",
   "homepage": "https://github.com/twoer/grunt-contrib-less-smartsprites",
   "author": {
