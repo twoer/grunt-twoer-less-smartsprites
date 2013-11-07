@@ -1,0 +1,41 @@
+{
+  "name": "grunt-contrib-less-smartsprites",
+  "description": "Compile LESS files to CSS(smartsprites).",
+  "version": "0.0.1",
+  "lessVersion": "0.8.1",
+  "homepage": "https://github.com/twoer/grunt-contrib-less-smartsprite",
+  "author": {
+    "name": "twoer",
+    "url": "http://cnblogs.com/twoer"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/twoer/grunt-contrib-less-smartsprite.git"
+  },
+  "bugs": {
+    "url": "https://github.com/twoer/grunt-contrib-less-smartsprite/issues"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {
+    "less": "~1.5.0",
+    "grunt-lib-contrib": "~0.6.1"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.2",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-internal": "~0.4.5",
+    "grunt": "~0.4.0"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.0"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}
