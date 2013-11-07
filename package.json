@@ -3,17 +3,17 @@
   "description": "Compile LESS files to CSS(smartsprites).",
   "version": "0.0.1",
   "lessVersion": "0.8.1",
-  "homepage": "https://github.com/twoer/grunt-contrib-less-smartsprite",
+  "homepage": "https://github.com/twoer/grunt-contrib-less-smartsprites",
   "author": {
     "name": "twoer",
     "url": "http://cnblogs.com/twoer"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/twoer/grunt-contrib-less-smartsprite.git"
+    "url": "https://github.com/twoer/grunt-contrib-less-smartsprites.git"
   },
   "bugs": {
-    "url": "https://github.com/twoer/grunt-contrib-less-smartsprite/issues"
+    "url": "https://github.com/twoer/grunt-contrib-less-smartsprites/issues"
   },
   "engines": {
     "node": ">= 0.8.0"
