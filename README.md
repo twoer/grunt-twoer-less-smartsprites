@@ -10,6 +10,11 @@ grunt-contrib-smartsprites
 ## 使用方法：
 > 完全同 https://github.com/gruntjs/grunt-contrib-less
 > 唯一区别就是增加了一个 `smartSpriteTag` 参数
+
+`npm install grunt-contrib-smartsprites --save-dev`
+
+`grunt.loadNpmTasks('grunt-contrib-smartsprites');`
+
 ```js
 //grunt smartsprite
 smartsprite: 
